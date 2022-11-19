@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\shilo\\OneDrive\\Рабочий стол\\homeworks\\homeworks1\\homeworks1.csproj": {}
+    "C:\\Users\\shilo\\OneDrive\\Рабочий стол\\homeworks\\homeworks_1\\homeworks_1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\shilo\\OneDrive\\Рабочий стол\\homeworks\\homeworks1\\homeworks1.csproj": {
+    "C:\\Users\\shilo\\OneDrive\\Рабочий стол\\homeworks\\homeworks_1\\homeworks_1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\shilo\\OneDrive\\Рабочий стол\\homeworks\\homeworks1\\homeworks1.csproj",
-        "projectName": "homeworks1",
-        "projectPath": "C:\\Users\\shilo\\OneDrive\\Рабочий стол\\homeworks\\homeworks1\\homeworks1.csproj",
+        "projectUniqueName": "C:\\Users\\shilo\\OneDrive\\Рабочий стол\\homeworks\\homeworks_1\\homeworks_1.csproj",
+        "projectName": "homeworks_1",
+        "projectPath": "C:\\Users\\shilo\\OneDrive\\Рабочий стол\\homeworks\\homeworks_1\\homeworks_1.csproj",
         "packagesPath": "C:\\Users\\shilo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\shilo\\OneDrive\\Рабочий стол\\homeworks\\homeworks1\\obj\\",
+        "outputPath": "C:\\Users\\shilo\\OneDrive\\Рабочий стол\\homeworks\\homeworks_1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\shilo\\AppData\\Roaming\\NuGet\\NuGet.Config"
